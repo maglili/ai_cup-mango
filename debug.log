@@ -1,2 +1,0 @@
-[0108/014606.156:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\EXIA\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\95a6da7a-8488-4748-bed7-ee1a5b371d0b: 系統找不到指定的路徑。 (0x3)
-[0108/014606.158:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
